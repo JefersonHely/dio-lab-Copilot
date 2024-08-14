@@ -8,7 +8,7 @@ Este projeto demonstra como utilizar o Copilot da OpenAI para auxiliar no desenv
 [!Exemplo de Código](https://bluepartner.com.br/wp-content/uploads/2024/05/Microsoft-Copilot-Logo.png)
 
 ### Interface do Copilot
-!Interface do Copilot
+[!Interface do Copilot](https://bluepartner.com.br/wp-content/uploads/2024/05/Microsoft-Copilot-Logo.png)
 
 ## Processo
 1. **Instalação do Copilot**: Primeiro, instalei o Copilot seguindo as instruções oficiais.
