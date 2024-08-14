@@ -5,7 +5,7 @@ Este projeto demonstra como utilizar o Copilot da OpenAI para auxiliar no desenv
 
 ## Prints
 ### Exemplo de Código Gerado
-(https://bluepartner.com.br/wp-content/uploads/2024/05/Microsoft-Copilot-Logo.png)(https://www.bing.com/images/create/um-desenvolver-utilizando-a-ia-da-copilot/1-66bd1eb1b408476bbad48311b087c5f5?FORM=GENCRE)
+[!Exemplo gerado](https://bluepartner.com.br/wp-content/uploads/2024/05/Microsoft-Copilot-Logo.png)
 ### Interface do Copilot
 [!Interface do Copilot](https://bluepartner.com.br/wp-content/uploads/2024/05/Microsoft-Copilot-Logo.png)
 
